@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "439334840201",
+    "firebase_url": "https://sellovia-5af1d-default-rtdb.firebaseio.com",
+    "project_id": "sellovia-5af1d",
+    "storage_bucket": "sellovia-5af1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439334840201:android:73cfa59ba6c59205e26358",
+        "android_client_info": {
+          "package_name": "com.example.xox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqfq1mJHIPl0JPuVBh_FSHn6RuXOWcQOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
